@@ -14,7 +14,7 @@ My first concern was which insurance protection to choose: $30K or $50K. I inves
 
 Total amount paid for $50K insurance plan with nonrefundable fare during 40 years is about $40K. If we take into account **inflation of 3%**(average inflation rate in Canada for the last years), we can see on the chart that in 20 years value will start decrease significantly and in the end of the period will devaluate twice. The same will be with insurance value that you can achive in case of illness.
  
-![](files/total_vs_inflation.png)
+![](files/total_vs_inflation.jpg)
 
 **Conclusion:** $30K will be really not significant amount in 20 years. So, I'll investigate $50K. Also, it's a good idea to upgrade insurance plan in year 2040.
 
@@ -25,8 +25,8 @@ Let see when investment of 3% or 5% will help me to cover all amount spend for i
 ![](files/Paid_off_time.jpg)
 
 You can see on chart that paid-off year will be:
-- **2051** in case of investment for 3%
-- **2039** in case of investment for 5%
+ **2052** in case of investment for 5%
+ Paid-off here means that in 2052 you will get back all money you paid for insurance and after that you'll just earn more.
 
 **Conclusion:** If we take nonrefundable fare and make investment of fare difference we will receive our money back earlier than the end of insurance period. 
 
@@ -37,9 +37,11 @@ Total spend for refundable and nonrefundable fare vs investment of fare differen
 
 |total, nonrefundable fare | total, refundable fare | investment 5pct |
 |:------------------------:|:----------------------:|:---------------:|
-|$40 320                   |$66 720                 |$185 855         |
+|$40 320                   |$66 720                 |$84 374          |
+
+
 
 **Conclusion:** In case insurance wasn't used, in 40 years (end of insurance period) you will receive your money back:
 | Nonrefundable fare | Refundable fare | Nonrefundable fare + investment|
 |-------------------:|----------------:|-------------------------------:|
-|                  $0|          $66 720|                        $145 535|
+|                  $0|          $66 720|                        $17 654 |
