@@ -16,6 +16,7 @@ Total amount paid for $50K insurance plan with nonrefundable fare during 40 year
  
 ![](files/total_vs_inflation.jpg)
 
+
 **Conclusion:** $30K will be really not significant amount in 20 years. So, I'll investigate $50K. Also, it's a good idea to upgrade insurance plan in year 2040.
 
 ## Investment of fare difference
