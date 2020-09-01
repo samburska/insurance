@@ -32,10 +32,10 @@ Let see when investment of 4% or 5% will help me to cover all amount spend for i
 
 You can see on chart that paid-off year will be:
  
- **2037** in case of investment for 4% with non-refundable fare.
+ 1. **2037** in case of investment for 4% with non-refundable fare.
  Paid-off here means that in 2052 you will get back all money you paid for insurance and after that you'll just earn more.
  
-  **2052** in case of investment for 5% with non-refundable fare
+ 2. **2052** in case of investment for 5% with non-refundable fare
 
 **Conclusion:** If we take nonrefundable fare and make investment of fare difference we will receive our money back earlier than the end of insurance period. 
 
@@ -50,7 +50,12 @@ Total spend for refundable and nonrefundable fare vs investment of fare differen
 
 
 
-**Conclusion:** In case insurance wasn't used, in 40 years (end of insurance period) you will receive your money back:
+**Conclusion:** In case insurance wasn't used, in 40 years (end of insurance period) you will receive your money back in the amount of:
 | Nonrefundable fare | Refundable fare | Nonrefundable fare + investment|
 |-------------------:|----------------:|-------------------------------:|
-|                  $0|          $66 720|                        $17 654 |
+|                  $0|          $66 720|                        $44 054 |
+
+**In a nutshell:**
+1. Refundable fare. At any time you have insurance. But this fare become more valuable only if you don't use it during insurance period. You'll get all money back, but don't forget that in 50 years the value of this amount will be twice less due to inflation.
+
+2. Non-refundable fare is more interesting at any point during these 40 years. Any time you have insurance + in about 20 years you'll just get profit from your investments that you can use any way you want. At the end of the period, you'll get less money, but due to inflation, it'll not be a big difference. 
