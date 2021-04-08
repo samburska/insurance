@@ -15,7 +15,7 @@ My first concern was which insurance protection to choose: $30K or $50K. I inves
 
 Total amount paid for $50K insurance plan with nonrefundable fare during 40 years is about $40K. If we take into account **inflation of 2%**(average inflation rate in Canada for the last years), we can see on the chart that in 20 years value will start decrease significantly and in the end of the period will devaluate twice. The same will be with insurance value that you can achive in case of illness.
  
-![](files/total_vs_inflation.jpg)
+![](images/total_vs_inflation.jpg)
 
 
 **Conclusion:** $30K will be really not significant amount in 20 years. So, I'll investigate $50K only. Also, it's a good idea to upgrade insurance plan in 20 years (year 2040).
@@ -25,10 +25,10 @@ Fare **difference is $55** per month. What if I make money work for me?
 Let see when investment of 4% or 5% will help me to cover all amount spend for insurance.
 
 4% investment paid-off time chart:
-![](files/Paid_off_time2.jpg)
+![](images/Paid_off_time2.jpg)
 
 5% investment paid-off time chart:
-![](files/Paid_off_time.jpg)
+![](images/Paid_off_time.jpg)
 
 You can see on chart that paid-off year will be:
  
@@ -42,7 +42,7 @@ You can see on chart that paid-off year will be:
 ## Total spend and receive
 
 Total spend for refundable and nonrefundable fare vs investment of fare difference chart:
-![](files/Ref_vs_nonref.jpg)
+![](images/Ref_vs_nonref.jpg)
 
 |total, nonrefundable fare | total, refundable fare | investment 5pct |
 |:------------------------:|:----------------------:|:---------------:|
